@@ -1,6 +1,6 @@
 {
   "Customer": {
-    "name": { "loremWords": {} },
-    "site": { "loremWords": {} }
+    "name": { "loremWords": {"minLength": 5, "maxLength": 20} },
+    "site": { "loremWords": {"minLength": 5, "maxLength": 20} }
   }
 }
