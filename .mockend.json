@@ -1,5 +1,5 @@
 {
-  "Customers": {
+  "Customer": {
     "name": { "string": {} },
     "site": { "string": {} }
   }
