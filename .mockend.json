@@ -1,6 +1,6 @@
 {
   "Customer": {
-    "name": { "string": {} },
-    "site": { "string": {} }
+    "name": { "loremWords": {} },
+    "site": { "loremWords": {} }
   }
 }
